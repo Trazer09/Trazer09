@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Moving toward the open-source world, day by day.
+Moving toward the world of open source, one day at a time.
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Trazer09)
